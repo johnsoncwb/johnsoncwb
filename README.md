@@ -19,6 +19,9 @@ Love music and i don't work without a good song!
   <img align="center" alt="johnsoncwb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="johnsoncwb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="johnsoncwb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+ <img align="center" alt="johnsoncwb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+ <img align="center" alt="johnsoncwb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ 
 
 </div>
   
