@@ -1,8 +1,7 @@
 ### Hi there! 🤓
 
-My name is Allan Johnson from Brazil (🇧🇷). I'm working as front-end mobile developes since 2021, got my focus in add data analytics on React Native apps with Firebase, AppsFlyer, Facebook Pixel, Insider, Segment 🤯
+My name is Allan Johnson and i'm from Brazil! currently i'm trying to migrate to front-end to back-end using Golang as first language (building api's, microservices and making some automations)! 
 
-Love music and i don't work without a good song!
 
 <br /><br /><br />
 
