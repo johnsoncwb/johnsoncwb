@@ -28,7 +28,7 @@ My name is Allan Johnson and i'm from Brazil! currently i'm trying to migrate to
  
 <div> 
   <a href="https://www.instagram.com/allanjohnsoncwb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href=https://www.linkedin.com/in/allan-johnson-2456a396/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/johnsoncwb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/johnsoncwb/johnsoncwb/blob/output/github-contribution-grid-snake.svg)
  
